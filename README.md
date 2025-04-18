@@ -1,4 +1,4 @@
-# Algonquin College Computer Programming Diploma Archive (2022-2024)
+# Algonquin College Computer Programming (2022-2024)
 
 [Algonquin College Computer Programming Program](https://www.algonquincollege.com/sat/program/computer-programming/)
 
